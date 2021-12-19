@@ -1,0 +1,10 @@
+﻿1. Open a file.
+2. Introduce the simulator.
+3. Collect user input regarding how many trials should be simulated.
+4. Check if the user input is over 100. Prompt user input again if that is not the case.
+5. Assign the animal a number.
+6. Create a loop that generates a number 1-9.
+7. Create a loop that keeps track of the count in the previous step.
+8. Process the file.
+9. Calculate the average.
+10. Close the file.
